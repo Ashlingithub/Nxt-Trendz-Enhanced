@@ -48,7 +48,7 @@ In the above command, replace this `{git repository URL}` with your actual Git U
 - Cloning the existing <a href="https://learning.ccbp.in/question/d595dd02-c5d0-4330-bd3d-ac0275b02d8a" target="_blank_">Nxt Trendz</a> repo is mandatory, as test cases are added for both the existing NxtTrendz App and the new functionality.
 - These projects are introduced to help you prepare well for similar questions asked during interviews. </MultiLineNote>
 
-### Submission Form:
+### Submission Form :
 
 <center>Click the below button and submit your git URL and published URL of the current project</center>
 <br>
